@@ -1,6 +1,6 @@
 # SwishIS
-Informacijski sistemi – Seminarska naloga: Swish
-Avtorja: Andraž Anderle (63190044) in Aleksandar Georgiev ()
+<h1>Informacijski sistemi – Seminarska naloga: Swish</h1> <br>
+<h2>Avtorja:Andraž Anderle (63190044) in Aleksandar Georgiev ()</h2>
 
 <a href="https://ibb.co/yXjzMnZ"><img src="https://i.ibb.co/Y3s5K71/Screenshot-2021-01-09-at-16-26-15.png" alt="Screenshot-2021-01-09-at-16-26-15" border="0" /></a>
 
@@ -11,3 +11,5 @@ Avtorja: Andraž Anderle (63190044) in Aleksandar Georgiev ()
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/GPJRn08/Screenshot-2021-01-09-at-16-24-03.png" alt="Screenshot-2021-01-09-at-16-24-03" border="0" /></a>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/q74H15J/Screenshot-2021-01-09-at-16-24-48.png" alt="Screenshot-2021-01-09-at-16-24-48" border="0" /></a>
+<br><br>
+<h3> Opis delovanja </h3>
