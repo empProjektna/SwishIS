@@ -13,3 +13,7 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/q74H15J/Screenshot-2021-01-09-at-16-24-48.png" alt="Screenshot-2021-01-09-at-16-24-48" border="0" /></a>
 <br><br>
 <h3> Opis delovanja </h3>
+Sistem omogoča prijavo uporabnika preko e-maila ali Google računa. Po uspešni prijavi lahko kreira nov trening in mu doda 4 različne tipe vaj. Ustvarjen trening lahko tudi uporabi. Sistem omogoča tudi spreminjanje profilne slike, uporabnikovega imena in države.
+<br>
+<h3> Opis nalog </h3>
+Seminarsko nalogo sva izdelala skupaj, saj je bilo dotnet okolje za oba novo in je bilo skupno delo hitrejše kot, če bi vsak izdelal posamezen sklop. 
